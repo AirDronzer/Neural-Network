@@ -1,1 +1,4 @@
-Made a Function for classify the image and detectig the images
+###### Made till Date #######
+1. Image Classifier with keras and tf.
+2. Made Cifar 10 Image Recongnization with 10 Category
+3. Made Digit Handwritten Recongization with MNIST Data Sets.
